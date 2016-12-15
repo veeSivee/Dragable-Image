@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Birthday Gift</string>
+    <string name="create_first_gift">Create Your First Image For Slide Gift</string>
+    <string name="message_add_image">Click image icon to add your first gift</string>
+    <string name="message_add_text">Click add text to add your fancy message</string>
+    <string name="message_add_sound">Click sound icon to add your coolest music</string>
+    <string name="message_create_new_sheet">Wow cool.. You finish your sheet. Click new sheet icon to create your best gift</string>
+</resources>
